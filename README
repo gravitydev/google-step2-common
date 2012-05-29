@@ -1,0 +1,5 @@
+
+Fork of Google Step2 (OpenID + OAuth)
+
+Switched to SBT build and updated guava
+
